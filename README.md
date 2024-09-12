@@ -1,6 +1,6 @@
 ## Hi there, I'm Florian 👋
 
-I'm a data scientist and statistician with a PhD in Bayesian statistics. I developed Bayes factors for testing hypotheses on variances. You can find a complete list of my publications on my [ResearchGate](https://www.researchgate.net/profile/Florian-Boeing-Messing) page.
+I'm a data scientist and statistician with a PhD in Bayesian statistics. In my PhD, I developed Bayes factors for testing hypotheses on variances. Code for computing the Bayes factors on your own data can be found in the following repositories: [BFtestvar](https://github.com/fboeingmessing/BFtestvar) and [dependent-outcomes](https://github.com/fboeingmessing/dependent-outcomes). A complete list of my publications is available on my [ResearchGate](https://www.researchgate.net/profile/Florian-Boeing-Messing) page.
 
 ### Languages and tools:
 
@@ -23,6 +23,8 @@ I'm a data scientist and statistician with a PhD in Bayesian statistics. I devel
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio" width="28px" />](https://www.rstudio.com)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="28px" />](https://code.visualstudio.com)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/YouTrack_icon.svg" title="YouTrack" width="28px" />](https://www.jetbrains.com/youtrack/)
 
 ### Connect with me:
 
