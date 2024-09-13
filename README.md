@@ -1,6 +1,6 @@
 ## Hi there, I'm Florian 👋
 
-I'm a data scientist and statistician with a PhD in Bayesian statistics. In my PhD, I developed Bayes factors for testing hypotheses on variances. Code for computing the Bayes factors on your own data can be found in the following repositories: [BFtestvar](https://github.com/fboeingmessing/BFtestvar) and [dependent-outcomes](https://github.com/fboeingmessing/dependent-outcomes). A complete list of my publications is available on my [ResearchGate](https://www.researchgate.net/profile/Florian-Boeing-Messing) page.
+I'm a data scientist and statistician with a PhD in Bayesian statistics. In my PhD, I developed [Bayes factors for testing equality and inequality constrained hypotheses on variances](https://research.tilburguniversity.edu/en/publications/bayes-factors-for-testing-equality-and-inequality-constrained-hyp). In the following repositories, you can find code for computing the Bayes factors on your own data: [BFtestvar](https://github.com/fboeingmessing/BFtestvar) and [dependent-outcomes](https://github.com/fboeingmessing/dependent-outcomes). A complete list of my publications is available on my [ResearchGate](https://www.researchgate.net/profile/Florian-Boeing-Messing) page.
 
 ### Languages and tools:
 
